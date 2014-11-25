@@ -1,6 +1,6 @@
 // JavaScript Document
 
-// Sticky Header
+// Sticky Navigation
 $(window).scroll(function() {
 
     if ($(window).scrollTop() > 100) {
@@ -26,7 +26,7 @@ $('.main_header li a').click(function() {
     }
 });
 
-// navigation scroll
+// Nav Scroll
 $('nav a').click(function(event) {
     var id = $(this).attr("href");
     var offset = 0;
@@ -36,7 +36,8 @@ $('nav a').click(function(event) {
     }, 500);
     event.preventDefault();
 });
-/* Scroll-to-Top Button */
+
+// Scroll to Top Button
 $(window).scroll(function () {
     if ($(this).scrollTop() > 100) {
         $('.scrollup').fadeIn();
@@ -51,9 +52,8 @@ $('.scrollup').click(function () {
     }, 600);
     return false;
 });
-/* WORK IN PROGRESS
-   NAVIGATION ACTIVE STATE IN SECTION AREA
-*/
+
+// Nav
 var sections = $('section'), nav = $('nav'), nav_height = nav.outerHeight();
  
 $(window).on('scroll', function () {
