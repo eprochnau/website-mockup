@@ -1,0 +1,25 @@
+# TEAM
+
+Designer & developer: Emily Prochnau
+Site: http://emilyprochnau.ca
+GitHub: http://github.com/eprochnau
+E-mail: hello@emilyprochnau.ca
+Twitter: @emilyprochnau
+Instagram: @emilyprochnau
+Behance: http://www.behance.net/eprochnau
+Location: Ottawa, Canada
+
+---
+
+# THANKS
+
+
+---
+
+# TECHNOLOGY
+
+- Dreamweaver
+- GitHub
+- Hover.com
+- FastMail.com
+- Codepen.io
