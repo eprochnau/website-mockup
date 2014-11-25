@@ -70,7 +70,8 @@ p {
 }
 
 .mail,
-.phone {
+.phone,
+.homepage {
 	background: #333;
 	font-family: "Oswald", serif;
 	color: #DEDEDE;
